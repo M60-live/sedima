@@ -4,10 +4,10 @@ h1, h2, h3, h4, h5, h6{
 body{
 	color: #666666;
 }
-/* Text Color 
-===================================================*/ 
+/* Text Color
+===================================================*/
 .color-primary, .color-primary-a{
-	color: #2288fc !important; /* color Primary */
+	color: #ff4d00 !important; /* color Primary */
 }
 .color-secondery, .color-secondery-a a{
 	color: #082136 !important /* color secondery */
@@ -31,7 +31,7 @@ body{
 ===================================================*/
 .icon-primary i,
 .icon-primary:before{
-	color: #2288fc; /* icon primary */
+	color: #ff4d00; /* icon primary */
 }
 .icon-secondery i,
 .icon-secondery:before{
@@ -53,10 +53,10 @@ body{
 .icon-white:before{
 	color: #fff;  /* icon white */
 }
-/* Background Color 
+/* Background Color
 ====================================================*/
 .bg-primary{
-	background-color: #2288fc !important; /* Background color primary */
+	background-color: #ff4d00 !important; /* Background color primary */
 }
 .bg-secondery{
 	background-color: #082136 !important /* Background color secondery */
@@ -80,9 +80,9 @@ body{
 	background-color: #f5ff12
 }
 .bg-green{
-	background-color: #21ff00 
+	background-color: #21ff00
 }
-/* All Button Color 
+/* All Button Color
 ===================================================*/
 .btn-window .top,
 .btn-window .bottom{
@@ -93,29 +93,29 @@ body{
     color: #fff;
 }
 .btn-window:hover{
-	background: #2288fc;
+	background: #ff4d00;
     color: #fff;
 }
 .btn-primary{
 	color: #fff;
-	background-color: #2288fc;
-	border-color: #2288fc;
+	background-color: #ff4d00;
+	border-color: #ff4d00;
 }
 .btn-primary:hover,
 .btn-primary:not(:disabled):not(.disabled):active{
-	color: #2288fc !important;
+	color: #ff4d00 !important;
 	background-color: transparent;
-	border-color: #2288fc;
+	border-color: #ff4d00;
 }
 .btn-secondery{
 	color: #fff;
-	background-color: #082136; 
-	border-color: #082136;
+	background-color: #ff4d00;
+	border-color: #ff4d00;
 }
 .btn-secondery:hover{
 	background-color: transparent;
 	color: #082136;
-	border-color: #082136;
+	border-color: #ff4d00;
 }
 .btn-dark{
 	color: #fff;
@@ -139,14 +139,14 @@ body{
 	border-color: #fff;
 }
 .btn-small{
-    background-color: #2288fc;
+    background-color: #ff4d00;
     color: #fff;
-    border-color: #2288fc;
+    border-color: #ff4d00;
 }
 .btn-small:hover{
     background-color: transparent;
-    color: #2288fc;
-    border-color: #2288fc;
+    color: #ff4d00;
+    border-color: #ff4d00;
 }
 .btn-newsletter{
 	background-color: #343a40;
@@ -154,14 +154,14 @@ body{
 }
 .btn-circle{
   color: #fff;
-  background-color: #2288fc
+  background-color: #ff4d00
 }
 .btn-circle:hover{
   background-color: #082136;
   color: #fff
 }
-/* All Class Text Color 
-===================================================*/ 
+/* All Class Text Color
+===================================================*/
 /* Color Primary
 --------------------*/
 .btn-link:hover,
@@ -182,7 +182,7 @@ body{
 .nav-header .dropdown-item:hover,
 .navbar-light .navbar-nav .nav-link:hover,
 .nav-header .nav-item span:hover,
-.navbar-light .navbar-nav.nav-white .nav-link:hover, 
+.navbar-light .navbar-nav.nav-white .nav-link:hover,
 .nav-header .navbar-nav.nav-white .nav-item span:hover,
 .navbar .navbar-nav li > a.active,
 .burger-nav .navbar-nav .nav-link:hover,
@@ -206,7 +206,7 @@ body{
 .list-style-icon-primary li:before,
 .about-block-list .list-style-icon-check li:before,
 .service-3 .box-title-3:hover{
-	color: #2288fc !important;
+	color: #ff4d00 !important;
 }
 /* color secondery
 ---------------------*/
@@ -258,7 +258,7 @@ body{
 }
 /* Color White
 --------------------*/
-.navbar-light .navbar-nav.nav-white .nav-link, 
+.navbar-light .navbar-nav.nav-white .nav-link,
 .nav-header .navbar-nav.nav-white .nav-item span,
 .box-style-2:hover .box-title-2 a,
 .color-white-a a,
@@ -295,8 +295,8 @@ body{
 .ratting li{
 	color: #ffc600;
 }
-/* Background Color 
-===================================================*/ 
+/* Background Color
+===================================================*/
 /* Background Color Primary
 -------------------------------*/
 ::-webkit-scrollbar-thumb,
@@ -337,7 +337,7 @@ body{
 .achivement-style-2 span:before,
 .price-plan-2 .table-header-right:before,
 .offer-banner-2:before{
-	background-color: #2288fc !important;
+	background-color: #ff4d00 !important;
 }
 /* Background Color Secondery
 -------------------------------*/
@@ -349,7 +349,7 @@ body{
 .why-us-img:before,
 .owl-nav-style-one .owl-nav button,
 .header-4 .nav-header:before{
-	background-color: #082136 !important;
+	background-color: #ff4d00 !important;
 }
 .portfolio-content a{
 	background-color: #082136
@@ -423,7 +423,7 @@ body{
 	background-color: #051929
 }
 /* Border Color
-===================================================*/ 
+===================================================*/
 .process-icon,
 .process-icon sup,
 .border-all,
@@ -438,13 +438,13 @@ body{
 .streangth-img:before,
 .service-3 .service-3-icon,
 .testimonial-four img{
-	border-color: #2288fc !important;
+	border-color: #ff4d00 !important;
 }
 .member-prifile-4:after{
-	border-top-color: #2288fc;
+	border-top-color: #ff4d00;
 }
 .faq-item .faq-icon:before{
-	border-right-color: #2288fc;
+	border-right-color: #ff4d00;
 }
 .media-two li a{
 	border-color: #6c757d;
@@ -476,7 +476,7 @@ body{
 .border-b1,
 .contact-form-1 .contact-message-1 .form-control,
 .contact-form-2 .contact-message-2 .form-control{
-	border-color: #dfdfdf;	
+	border-color: #dfdfdf;
 }
 .border-b-1-light{
 	border-color: #dfdfdf;
@@ -498,7 +498,7 @@ body{
   border-color: #082136 #082136 #082136 transparent
 }
 /* Overlay color
-===================================================*/ 
+===================================================*/
 .overlay-white:before{
 	background-color: rgba(255,255,255,0.7);
 }
@@ -529,7 +529,7 @@ body{
 	background-color: rgba(8, 33, 54, 0.9);
 }
 /* Box Shadow
-===================================================*/ 
+===================================================*/
 .box-shadow,
 .custom-options,
 .thumbnail-2,
@@ -554,12 +554,12 @@ body{
 .overlay-hover-gradient,
 .gallery-5 .gallery-navbar li.active,
 .gallery-5 .gallerynav-four:hover{
-	color: #2288fc
+	color: #ff4d00
 }
-.gallery-3 .gallerynav-three:before, 
-.gallery-3 .gallerynav-three:after, 
+.gallery-3 .gallerynav-three:before,
+.gallery-3 .gallerynav-three:after,
 .gallery-3 .gallerynav-three{
-	background-color: #082136
+	background-color: #ff4d00
 }
 .gallery-2 .gallery-navbar li{
 	color: #082136
@@ -572,7 +572,7 @@ body{
     stroke: #082136
 }
 .gallery-4 .gallery-navbar li svg.button-stroke{
-    stroke: #2288fc
+    stroke: #ff4d00
 }
 .portfolio-content a:hover{
 	color: #082136;

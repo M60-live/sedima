@@ -56,10 +56,10 @@
                 <div class="col-md-12 col-lg-5 col-xl-4">
                     <div class="side-menu-list bg-gray">
                         <ul>
-                            <li><a class="active" href="#">Financial Advisory & Consulting</a></li>
-                            <li><a href="#">Accounting & Bookkeeping</a></li>
-                            <li><a href="#">Risk Assessment & Management</a></li>
-                            <li><a href="#">Financial Statement Preparation</a></li>
+                            <li><a class="active" href="/service/financial_advisory_consulting">Financial Advisory & Consulting</a></li>
+                            <li><a href="/service/accounting_bookkeeping">Accounting & Bookkeeping</a></li>
+                            <li><a href="/service/risk_assessment_management">Risk Assessment & Management</a></li>
+                            <li><a href="/service/financial_statement_preparation">Financial Statement Preparation</a></li>
                         </ul>
                     </div>
                     @include('component.service_contact')
