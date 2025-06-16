@@ -25,7 +25,8 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
             <h3 class="text-center mt-5">
-                <div class="bg-light py-2 px-2" style="border-radius: 15px;">Site is under constriction - We will be live soon.</div>
+                <img class="col-lg-4" src="{{ asset('images/logo/4.png') }}" alt="black and white logo">
+                <div class="bg-light py-2 px-2" style="border-radius: 15px;">Site is under construction - We will be live soon.</div>
             </h3>
         </div>
         <div class="col-md-2"></div>
