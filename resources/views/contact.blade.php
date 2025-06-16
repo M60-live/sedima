@@ -77,7 +77,7 @@
                             </li>
                             <li>
                                 Address :
-                                <span>40 Towerhill Avenue, Melbourne, Australia.</span>
+                                <span>379 San Isidro Street, Silverwood Estate, Centurion, 0157</span>
                             </li>
                         </ul>
                     </div>

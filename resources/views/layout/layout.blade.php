@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="root">
+    <meta name="description" content="Financial Advice">
+    <meta name="keywords" content="Sedima,Financial Advice">
+    <meta name="author" content="Alpha to Beta">
     <!-- css Links
     ====================================================-->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
@@ -28,7 +28,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 
     <!-- Title -->
-    <title>Expoge - Multipurpose Business HTML Template</title>
+    <title>Sedima - Advisory and Finance</title>
 
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
@@ -115,69 +115,40 @@
 <footer class="bg-secondery">
     <div class="container">
         <div class="row py-80">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-5 col-md-6">
                 <div class="footer-widget sm-mt-0">
                     <div class="footer-logo mb-20">
-                        <a href="#"><img src="{{ asset('images/logo/logo-white.png') }}" alt="images"></a>
+                        <a href="/"><img class="col-lg-7" src="{{ asset('images/logo/4.png') }}" alt="black and white logo"></a>
                     </div>
                     <div class="text-area color-white">
-                        <p>Posuere nam natoque nec rhoncus malesuad phasel ante. Enim lacinia cubilia mat quam place.</p>
+                        <p>Sedima Advisory and Finance, committed to helping businesses realize their full potential.</p>
                     </div>
                     <ul class="widget-contact-info color-white icon-primary link-list-b-15 mt-30">
-                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (012) 345 657 900</li>
-                        <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span> info@yourdomain.com</li>
-                        <li><span class="mr-20"><i class="fa fa-skype" aria-hidden="true"></i></span> Expoge.multipurpose</li>
-                        <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>40 Towerhill Avenue, Melbourne, Australia.</li>
+{{--                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (012) 345 657 900</li>--}}
+                        <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span> info@sedimaadvisoryandfinance.co.za</li>
+{{--                        <li><span class="mr-20"><i class="fa fa-skype" aria-hidden="true"></i></span> Expoge.multipurpose</li>--}}
+                        <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>379 San Isidro Street, Silverwood Estate, Centurion.</li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <div class="footer-widget">
-                    <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Recent News</h3>
-                    <ul class="hover-white-primary link-list-b-20">
-                        <li>
-                            <a href="#">Integer magnis vivam phasel. Lacus porttitor vestibulum ligula auctor.</a>
-                            <div class="post-meta color-light-gray f-12 mt-5">
-                                <span class="d-inline-block">25 January 2020</span>
-                            </div>
-                        </li>
-                        <li>
-                            <a href="#">Rhonc maecen aliqu varius conubia nullam hymenaeos rhoncus.</a>
-                            <div class="post-meta color-light-gray f-12 mt-5">
-                                <span class="d-inline-block">25 January 2020</span>
-                            </div>
-                        </li>
-                        <li>
-                            <a href="#">Quisque tellus erat tortor elementu aenean litora.</a>
-                            <div class="post-meta color-light-gray f-12 mt-5">
-                                <span class="d-inline-block">22 January 2020</span>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-6">
                 <div class="footer-widget">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Links</h3>
                     <ul class="hover-white-primary link-list-b-15">
-                        <li><a href="#">Our Services</a></li>
-                        <li><a href="#">How It Work</a></li>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Free Consultation</a></li>
-                        <li><a href="#">Mission and Vision</a></li>
-                        <li><a href="#">Account Settings</a></li>
-                        <li><a href="#">License</a></li>
+                        <li><a href="/service/financial_advisory_consulting">Our Services</a></li>
+                        <li><a href="/contact">FAQ</a></li>
+                        <li><a href="/contact">Help</a></li>
+                        <li><a href="/about">About Us</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="footer-widget color-white">
-                    <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Subscribe</h3>
-                    <p>Dictum velit cum arcu interd faucib urna inceptos imperdiet dignissim.</p>
+                    <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Download</h3>
+                    <p>Get our digital brochure here.</p>
                     <form class="mt-30">
-                        <input class="form-control" name="subscribe" type="text" placeholder="Subscribe">
-                        <button class="btn btn-primary mt-15">Subscribe</button>
+                        <input class="form-control" name="email" type="text" placeholder="Email Address">
+                        <button class="btn btn-primary mt-15">Download</button>
                     </form>
                     <ul class="socal media-two d-inline-block color-secondery mt-30">
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -196,7 +167,7 @@
             <div class="row">
                 <div class="col-md-12 col-lg-12">
                     <div class="copyright-style-2 color-white py-15 text-center">
-                        Expoge @ 2020. All Right Reserved.
+                        Sedima Advisory and Finance @ 2025. All Right Reserved.
                     </div>
                 </div>
             </div>
