@@ -12,7 +12,7 @@
     ====================================================-->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
     <!-- Title -->
-    <title><title>Sedima - Advisory and Finance</title></title>
+    <title>Sedima - Advisory and Finance</title>
 
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">

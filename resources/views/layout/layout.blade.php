@@ -68,8 +68,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light px-0">
 {{--                        <a class="navbar-brand" href="#"><img src="{{ asset('images/logo/logo.png') }}" alt="logo"></a>--}}
-                        <a class="navbar-brand" href="#"><img src="{{ asset('images/logo/2.png') }}" style="height: 70px !important;" alt="logo"></a>
-
+                        <a class="navbar-brand" href="/"><img src="{{ asset('images/logo/2.png') }}" style="height: 70px !important;" alt="logo"></a>
 
                         <button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span></span>
