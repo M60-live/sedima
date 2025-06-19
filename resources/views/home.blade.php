@@ -57,7 +57,7 @@
                     <div class="text-area">
                         <p>Strategic advice to maximize profits, manage cash flow, and plan for growth.</p>
                     </div>
-                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="#"><i class="flaticon-right"></i></a>
+                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="/service/financial_advisory_consulting"><i class="flaticon-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -69,7 +69,7 @@
                     <div class="text-area">
                         <p>Accurate financial records and compliance made easy so you can focus on running your business.</p>
                     </div>
-                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="#"><i class="flaticon-right"></i></a>
+                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="/service/accounting_bookkeeping"><i class="flaticon-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -81,7 +81,7 @@
                     <div class="text-area">
                         <p>Identify and mitigate financial risks to protect your business and ensure long-term stability.</p>
                     </div>
-                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="#"><i class="flaticon-right"></i></a>
+                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="/service/risk_assessment_management"><i class="flaticon-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -93,7 +93,7 @@
                     <div class="text-area">
                         <p>Clear, reliable reports designed to give you confidence and support decision-making.</p>
                     </div>
-                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="#"><i class="flaticon-right"></i></a>
+                    <a class="mt-20 d-inline-block flat-small icon-secondery btn-icon" href="/service/financial_statement_preparation"><i class="flaticon-right"></i></a>
                 </div>
             </div>
         </div>

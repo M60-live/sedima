@@ -40,7 +40,7 @@
                         <form class="contact-message-2" id="contact-form" action="/contact" method="post">
                             @csrf
                             <div class="form-group">
-                                <input class="form-control" type="text" name="name" placeholder="Name*"/>
+                                <input class="form-control" type="text" name="fullName" placeholder="Name*"/>
                             </div>
                             <div class="form-group">
                                 <input class="form-control" type="text" name="email" placeholder="Email*"/>
