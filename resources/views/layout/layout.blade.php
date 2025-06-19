@@ -31,7 +31,7 @@
     <title>Sedima - Advisory and Finance</title>
 
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/images/favicon.png') }}">
 
 </head>
 <body id="top">
@@ -68,7 +68,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light px-0">
 {{--                        <a class="navbar-brand" href="#"><img src="{{ asset('images/logo/logo.png') }}" alt="logo"></a>--}}
-                        <a class="navbar-brand" href="/"><img src="{{ asset('images/logo/2.png') }}" style="height: 70px !important;" alt="logo"></a>
+                        <a class="navbar-brand" href="/"><img src="{{ asset('images/logo/logo-b.png') }}" style="height: 80px !important;" alt="logo"></a>
 
                         <button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span></span>
@@ -117,7 +117,7 @@
             <div class="col-lg-5 col-md-6">
                 <div class="footer-widget sm-mt-0">
                     <div class="footer-logo mb-20">
-                        <a href="/"><img class="col-lg-7" src="{{ asset('images/logo/4.png') }}" alt="black and white logo"></a>
+                        <a href="/"><img class="col-lg-7" src="{{ asset('images/logo/logo-w.png') }}" alt="black and white logo"></a>
                     </div>
                     <div class="text-area color-white">
                         <p>Sedima Advisory and Finance, committed to helping businesses realize their full potential.</p>

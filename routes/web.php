@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,7 +24,9 @@ Route::get('/about', function () {
 
 Route::get('/contact', function () {
     return view('contact');
-});
+})->name("Contact Form");
+
+Route::post('/contact', [ContactController::class, 'ContactForm'])->name("Contact Form Backend");
 
 Route::get('/service/financial_advisory_consulting', function () {
     return view('financial_advisory_consulting');

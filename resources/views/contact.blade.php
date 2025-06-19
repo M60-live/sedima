@@ -37,7 +37,8 @@
                         <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30">Our Support Center.</h2>
                     </div>
                     <div class="contact-form-2">
-                        <form class="contact-message-2" id="contact-form" action="email.php" method="post">
+                        <form class="contact-message-2" id="contact-form" action="/contact" method="post">
+                            @csrf
                             <div class="form-group">
                                 <input class="form-control" type="text" name="name" placeholder="Name*"/>
                             </div>
