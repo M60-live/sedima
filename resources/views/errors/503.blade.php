@@ -15,7 +15,7 @@
     <title>Sedima - Advisory and Finance</title>
 
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/images/favicon.png') }}">
 
 </head>
 <body class="bg-dark">
@@ -25,7 +25,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
             <h3 class="text-center mt-5">
-                <img class="col-lg-4" src="{{ asset('images/logo/4.png') }}" alt="black and white logo">
+                <img class="col-lg-4 my-3" src="{{ asset('images/logo/logo-w.png') }}" alt="black and white logo">
                 <div class="bg-light py-2 px-2" style="border-radius: 15px;">Site is under construction - We will be live soon.</div>
             </h3>
         </div>
