@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Financial Advice">
     <meta name="keywords" content="Sedima,Financial Advice">
-    <meta name="author" content="Alpha to Beta">
+    <meta name="author" content="Alpha to Beta Systems">
     <!-- css Links
     ====================================================-->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
@@ -56,7 +56,7 @@
                     <ul class="color-white-a hover-primary float-right">
                         {{--<li><a href="login.html">Login</a></li>
                         <li><a href="signup.html">Signup</a></li>--}}
-                        <li><a class="quote-btn btn-primary" href="#">Get a Quote</a></li>
+                        <li><a class="quote-btn btn-primary" href="/contact">Get a Quote</a></li>
                     </ul>
                 </div>
             </div>
