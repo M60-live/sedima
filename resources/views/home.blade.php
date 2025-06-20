@@ -130,7 +130,7 @@
                 <div class="title mb-30 w-50 lg-w-80 text-center mx-auto">
                     <span class="color-primary">Pricing Plan</span>
                     <h2 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20">Our Packages</h2>
-                    <p>Taciti ligula neque non nisi sapien sapien sociosqu proin fusce aptent sit amet tellus id. Dictum mattis nisl nullam ligula.</p>
+                    <p>We have a wide range of packages for every kind of business there is, choose one that fits your business.</p>
                 </div>
             </div>
 
@@ -159,7 +159,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
@@ -189,7 +189,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
@@ -219,7 +219,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
@@ -252,7 +252,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
@@ -284,7 +284,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
@@ -317,7 +317,7 @@
                     </div>
                     <hr class="my-30">
                     <div class="table-footer pb-40 px-30">
-                        <a class="btn btn-secondery" href="#">Get Quote</a>
+                        <a class="btn btn-secondery" href="/contact">Get Quote</a>
                     </div>
                 </div>
             </div>
