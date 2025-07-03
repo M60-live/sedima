@@ -28,7 +28,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 
     <!-- Title -->
-    <title>Sedima - Advisory and Finance</title>
+    <title>Sedima - Advisory and Finance | {{ $title }}</title>
 
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/images/favicon.png') }}">

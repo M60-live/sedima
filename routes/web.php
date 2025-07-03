@@ -15,31 +15,31 @@ use App\Http\Controllers\ContactController;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('home', ['title' => 'Home']);
 });
 
 Route::get('/about', function () {
-    return view('about');
+    return view('about', ['title' => 'About Us']);
 });
 
 Route::get('/contact', function () {
-    return view('contact');
+    return view('contact', ['title' => 'Contact Us']);
 })->name("Contact Form");
 
 Route::post('/contact', [ContactController::class, 'ContactForm'])->name("Contact Form Backend");
 
 Route::get('/service/financial_advisory_consulting', function () {
-    return view('financial_advisory_consulting');
+    return view('financial_advisory_consulting', ['title' => 'Financial Advisory Consulting']);
 });
 
 Route::get('/service/accounting_bookkeeping', function () {
-    return view('accounting_bookkeeping');
+    return view('accounting_bookkeeping', ['title' => 'Accounting and Bookkeeping']);
 });
 
 Route::get('/service/risk_assessment_management', function () {
-    return view('risk_assessment_management');
+    return view('risk_assessment_management', ['title' => 'Risk Assessment Management']);
 });
 
 Route::get('/service/financial_statement_preparation', function () {
-    return view('financial_statement_preparation');
+    return view('financial_statement_preparation', ['title' => 'Financial Statement Preparation']);
 });

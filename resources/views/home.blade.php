@@ -7,7 +7,7 @@
     <div id="slider" style="width:1200px;height:805px;margin:0 auto;margin-bottom: 0px;">
         <!-- Slide 1-->
         <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:8000; transition2d:3; timeshift:-500; deeplink:home; kenburnszoom:in; kenburnsrotate:0; kenburnsscale:1.1; parallaxevent:scroll; parallaxdurationmove:500;">
-            <img width="1920" height="805" src="{{ asset('images/slider/1.jpg') }}" class="ls-bg" alt="" />
+            <img width="1920" height="805" src="{{ asset('images/slider/slide1.jpg') }}" class="ls-bg" alt="" />
             <div style="width:100%; height:100%; background:rgba(8, 33, 54, 0.8); top:50%; left:50%;" class="ls-l" data-ls="easingin:easeOutQuint; durationin:1500; durationout:400; parallaxlevel:0; position:fixed;"></div>
             <p style="font-weight:900; text-align:center; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);width:800px; font-family:'Nunito Sans', sans-serif; font-size:60px; line-height:80px; color:#fff; top:302px; left:50%; white-space:normal;" class="ls-l ls-hide-phone" data-ls="offsetyin:40; delayin:1000; easingin:easeOutQuint; filterin:blur(10px); offsetyout:-200; durationin:1500; durationout:400; parallax:false; parallaxlevel:3;">GROW WITH EXPERT</p>
             <p style="font-weight:600; text-align:center;text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);width:500px; font-family:'Nunito Sans', sans-serif; font-size:21px; line-height:50px; color:#ffffff; top:252px; left:50%; white-space:normal;" class="ls-l ls-hide-phone" data-ls="offsetyin:40; delayin:500; easingin:easeOutQuint; offsetyout:-200; durationin:1500; durationout:400; parallax:false; parallaxlevel:4;">EMPOWERING SMALL AND MEDIUM BUSINESSES</p>
@@ -19,7 +19,7 @@
 
         <!-- Slide 2-->
         <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:8000; transition2d:3; timeshift:-500; deeplink:home; kenburnszoom:in; kenburnsrotate:0; kenburnsscale:1.1; parallaxevent:scroll; parallaxdurationmove:500;">
-            <img width="1920" height="805" src="{{ asset('images/slider/2.jpg') }}" class="ls-bg" alt="" />
+            <img width="1920" height="805" src="{{ asset('images/slider/slide2.jpg') }}" class="ls-bg" alt="" />
             <div style="width:100%; height:100%; background:rgba(8, 33, 54, 0.8); top:50%; left:50%;" class="ls-l" data-ls="easingin:easeOutQuint; durationin:1500; durationout:400; parallaxlevel:0; position:fixed;"></div>
             <p style="font-weight:900; text-align:center; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);width:800px; font-family:'Nunito Sans', sans-serif; font-size:60px; line-height:80px; color:#fff; top:302px; left:50%; white-space:normal;" class="ls-l ls-hide-phone" data-ls="offsetyin:40; delayin:1000; easingin:easeOutQuint; filterin:blur(10px); offsetyout:-200; durationin:1500; durationout:400; parallax:false; parallaxlevel:3;">SOLUTIONS TAILORED</p>
             <p style="font-weight:500; text-align:center;text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);width:500px; font-family:'Nunito Sans', sans-serif; font-size:21px; line-height:50px; color:#ffffff; top:252px; left:50%; white-space:normal;" class="ls-l ls-hide-phone" data-ls="offsetyin:40; delayin:500; easingin:easeOutQuint; offsetyout:-200; durationin:1500; durationout:400; parallax:false; parallaxlevel:4;">TRUSTED FINANCIAL</p>

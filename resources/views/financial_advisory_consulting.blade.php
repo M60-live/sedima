@@ -38,9 +38,8 @@
                         <div class="row">
                             <div class="col-md-12 col-lg-12">
                                 <div class="owl-carousel service-slider owl-nav-style-one position-relative">
-                                    <img src="{{ asset('images/other/2.jpg') }}" alt="images">
-                                    <img src="{{ asset('images/other/3.jpg') }}" alt="images">
-                                    <img src="{{ asset('images/other/4.jpg') }}" alt="images">
+                                    <img src="{{ asset('images/service/financial_advisory.jpg') }}" alt="images">
+                                    <img src="{{ asset('images/service/financial_advisory.jpg') }}" alt="images">
                                 </div>
                             </div>
                             <div class="col-md-12 col-lg-12">
