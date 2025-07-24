@@ -162,7 +162,10 @@
 
                                     <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;">
                                         <p style="font-family: Helvetica, Arial, sans-serif; font-size: 11px;">
-                                            This is your new text block with the first paragraph.
+                                            <strong>Full Name:</strong> {{ $fullName }}<br>
+                                            <strong>Email:</strong> {{ $email }}<br>
+                                            <strong>Subject:</strong> {{ $subject }}<br>
+                                            <strong>Message:</strong> {{ $message }}
                                         </p>
                                     </div>
 
