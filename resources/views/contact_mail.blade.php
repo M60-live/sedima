@@ -165,7 +165,7 @@
                                             <strong>Full Name:</strong> {{ $fullName }}<br>
                                             <strong>Email:</strong> {{ $email }}<br>
                                             <strong>Subject:</strong> {{ $subject }}<br>
-                                            <strong>Message:</strong> {{ $message }}
+                                            <strong>Message:</strong> {{ $messageString }}
                                         </p>
                                     </div>
 

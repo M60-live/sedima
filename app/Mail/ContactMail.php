@@ -49,7 +49,7 @@ class ContactMail extends Mailable
                 'fullName' => $this->fullName,
                 'email'    => $this->email,
                 'subject'  => $this->subject,
-                'message'  => $this->message,
+                'messageString'  => $this->message,
             ]
         );
     }
