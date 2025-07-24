@@ -164,7 +164,7 @@
                                         <p style="font-family: Helvetica, Arial, sans-serif; font-size: 11px;">
                                             <strong>Full Name:</strong> {{ $fullName }}<br>
                                             <strong>Email:</strong> {{ $email }}<br>
-                                            <strong>Subject:</strong> {{ $subject }}<br>
+                                            <strong>Subject:</strong> {{ $subjectField }}<br>
                                             <strong>Message:</strong> {{ $messageString }}
                                         </p>
                                     </div>

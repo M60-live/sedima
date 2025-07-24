@@ -15,8 +15,8 @@ class ContactMail extends Mailable
 
     public $fullName;
     public $email;
-    public $subject;
-    public $message;
+    public $subjectField;
+    public $messageString;
     /**
      * Create a new message instance.
      */
@@ -24,8 +24,8 @@ class ContactMail extends Mailable
     {
         $this->fullName = $details["fullName"];
         $this->email    = $details["email"];
-        $this->subject  = $details["subject"];
-        $this->message  = $details["message"];
+        $this->subjectField  = $details["subject"];
+        $this->messageString = $details["message"];
     }
 
     /**
@@ -48,8 +48,8 @@ class ContactMail extends Mailable
             with: [
                 'fullName' => $this->fullName,
                 'email'    => $this->email,
-                'subject'  => $this->subject,
-                'messageString'  => $this->message,
+                'subjectField'  => $this->subject,
+                'messageString' => $this->messageString,
             ]
         );
     }

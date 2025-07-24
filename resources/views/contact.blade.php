@@ -31,6 +31,14 @@
     <section class="position-relative background-map">
         <div class="container">
             <div class="row">
+                @if (session('message_sent'))
+                <div class="col-md-12">
+                    <div class="alert alert-success alert-dismissible shadow-sm fade show" role="alert">
+                        {{ session('message_sent') }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                </div>
+                @endif
                 <div class="col-md-6 col-lg-6">
                     <div class="title">
                         <span class="color-primary">Contact US</span>
